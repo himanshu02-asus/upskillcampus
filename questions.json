@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What does CPU stand for?",
+        "options": [
+            "Central Processing Unit",
+            "Computer Personal Unit",
+            "Central Process Utility",
+            "Control Processing Unit"
+        ],
+        "answer": "Central Processing Unit"
+    },
+    {
+        "question": "Which language is primarily used for this quiz program?",
+        "options": [
+            "Java",
+            "Python",
+            "C++",
+            "JavaScript"
+        ],
+        "answer": "Python"
+    },
+    {
+        "question": "What is the output of 2 ** 3 in Python?",
+        "options": [
+            "6",
+            "8",
+            "9",
+            "5"
+        ],
+        "answer": "8"
+    },
+    {
+        "question": "Which data structure uses FIFO (First In, First Out)?",
+        "options": [
+            "Stack",
+            "Queue",
+            "Tree",
+            "Graph"
+        ],
+        "answer": "Queue"
+    },
+    {
+        "question": "What is the capital of India?",
+        "options": [
+            "Mumbai",
+            "Kolkata",
+            "New Delhi",
+            "Chennai"
+        ],
+        "answer": "New Delhi"
+    }
+]
